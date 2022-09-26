@@ -1,0 +1,25 @@
+{
+  "name": "barka-bot",
+  "version": "1.0.0",
+  "description": "no co no barka bot no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemDSC/barka-bot.git"
+  },
+  "author": "DemDSC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DemDSC/barka-bot/issues"
+  },
+  "homepage": "https://github.com/DemDSC/barka-bot#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
